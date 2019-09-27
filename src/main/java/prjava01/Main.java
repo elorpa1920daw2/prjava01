@@ -11,6 +11,7 @@ import java.io.*;
 public class Main {
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
     public static void main(String[] args) throws java.io.IOException {
         File f = new File("fitxer.html");
